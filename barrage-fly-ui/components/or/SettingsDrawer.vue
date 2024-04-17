@@ -133,7 +133,7 @@
     </div>
 
     <!-- 反馈 -->
-    <v-divider />
+    <!-- <v-divider />
     <v-container>
       <div class="text-subtitle-2 font-weight-black">
         {{ $t('other') }}
@@ -150,7 +150,7 @@
         </v-list-item>
         <slot name="other-list-item" />
       </v-list>
-    </v-container>
+    </v-container> -->
   </v-navigation-drawer>
 </template>
 

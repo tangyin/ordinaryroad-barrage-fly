@@ -32,7 +32,7 @@
     </v-main>
 
     <!-- Footer -->
-    <or-footer app absolute />
+    <!-- <or-footer app absolute /> -->
 
     <!-- 回到顶部按钮 -->
     <v-fab-transition>
